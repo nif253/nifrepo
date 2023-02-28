@@ -1,0 +1,15 @@
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\bin\Debug\Csharp_Hotel_System.exe.config
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\bin\Debug\Csharp_Hotel_System.exe
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\bin\Debug\Csharp_Hotel_System.pdb
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.csprojResolveAssemblyReference.cache
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.LoginForm.resources
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.Properties.Resources.resources
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.csproj.GenerateResource.Cache
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.exe
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.pdb
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\bin\Debug\MySql.Data.dll
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\bin\Debug\MySql.Data.xml
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.Main_Form.resources
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.ManageClientsForm.resources
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.ManageReservationsForm.resources
+D:\Dhani's Documents\latihan\c_sharp\Csharp_Hotel_System\obj\Debug\Csharp_Hotel_System.ManageRoomsForm.resources
